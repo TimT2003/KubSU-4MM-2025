@@ -2,6 +2,13 @@
 
 Hello, World!
 
+## Java Spring Service
+
+ ```bash
+ ./gradlew clean build
+ ./gradlew bootRun
+ ```
+
 ## Postgres & PgAdmin in Docker
 
 ```bash
